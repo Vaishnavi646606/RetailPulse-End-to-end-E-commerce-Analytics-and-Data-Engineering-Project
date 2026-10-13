@@ -1,0 +1,16 @@
+# Dataset CSV files (keep datasets local)
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# IDE and OS
+.vscode/
+.DS_Store

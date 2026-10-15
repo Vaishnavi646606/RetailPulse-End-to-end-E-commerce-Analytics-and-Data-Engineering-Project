@@ -9,10 +9,11 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-screenshots/*
+# screenshots
+!screenshots/*
 !screenshots/.gitkeep
 .DS_Store
 Thumbs.db
 .vscode/
 # Power BI report files
-reports/*.pbix
+#reports/*.pbix
